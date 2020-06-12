@@ -276,10 +276,11 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    min-height: 500px;
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 300px;
     padding-bottom: 50px;
 }
 
@@ -324,6 +325,17 @@ header .intro-text .intro-heading {
     }
 }
 
+@media(min-width:1200px) {
+    header {
+        min-height: 800px !important;
+    }
+}
+
+@media(min-width:1500px) {
+    header {
+        min-height: 1000px !important;
+    }
+}
 section {
     padding: 100px 0;
 }
