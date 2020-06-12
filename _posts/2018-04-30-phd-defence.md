@@ -3,6 +3,7 @@ title: Thesis Defence on May 7th, 2018
 type: blog
 description: Details about my thesis defence.
 layout: post
+image: defence.png
 ---
 
 ## Details

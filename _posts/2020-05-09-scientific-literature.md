@@ -4,6 +4,7 @@ published: true
 type: blog
 description: Methods I use to keep on top of the scientific literature, ranging from RSS feeds, to email alerts, to the SciReader recommender engine.
 layout: post
+image: scientific-literature.png
 ---
 
 The march of scientific progress waits for no-one. This is what makes what we do
