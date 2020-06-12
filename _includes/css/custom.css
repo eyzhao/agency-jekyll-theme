@@ -1,0 +1,34 @@
+.degrees {
+    font-size: 36pt;
+    font-weight: normal;
+}
+
+#contact p {
+    color: #eee;
+    font-size: 16pt;
+}
+
+#contact a {
+    color: #6baed6;
+}
+
+#contact h3 {
+    color: #bbb;
+}
+
+.navbar_post {
+}
+
+article {
+    padding: 20px 50px;
+}
+
+article h2 {
+    text-transform: none;
+    font-size: 24pt;
+}
+
+article h3 {
+    text-transform: none;
+    font-size: 18pt;
+}
