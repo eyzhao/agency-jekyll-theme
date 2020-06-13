@@ -23,7 +23,7 @@
                         <li class="timeline-inverted">
                         {% endif %}
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="/img/posts/{{ post.image }}" alt="">
+                                <img class="img-circle img-responsive" src="{{ post.thumbnail }}" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -43,7 +43,9 @@
                         {% endfor %}
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>More<br>Blog<br>Posts</h4>
+                                <a href='/blog' style='color: white'>
+                                    <h4>More<br>Blog<br>Posts</h4>
+                                </a>
                             </div>
                         </li>
                     </ul>

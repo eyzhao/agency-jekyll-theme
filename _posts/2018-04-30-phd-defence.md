@@ -1,12 +1,13 @@
 ---
 title: Thesis Defence on May 7th, 2018
+author: eric
+categories: [ Research, Milestones ]
 type: blog
 description: Details about my thesis defence.
 layout: post
-image: defence.png
+thumbnail: img/posts/defence.png
+image: img/posts/asco-2018.jpg
 ---
-
-## Details
 
 My thesis defence is scheduled on May 7th, 2018 at 9:00 AM. It will take place at the Gordon & Leslie Diamond Healthcare Centre. For complete details, please see my [thesis defence programme](/media/thesis_defence_programme.pdf).
 

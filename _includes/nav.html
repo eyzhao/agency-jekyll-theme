@@ -1,5 +1,5 @@
 <!-- Navigation -->
-    <nav class="navbar-default navbar-shrink navbar-post" style = 'position: relative'>
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -16,30 +16,31 @@
                 <a href='/'>
                     <img src='/img/logo/logo.png' class='nav-logo'/>
                 </a>
-
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-
                     <li>
-                        <a href="/blog">Return to Blog</a>
+                        <a class="page-scroll" href="#about">About</a>
                     </li>
-
                     <li>
-                        <a href="/">Return to Main Site</a>
+                        <a class="page-scroll" href="#cv">CV</a>
                     </li>
-
+                    <li>
+                        <a class="page-scroll" href="#blog">Blog</a>
+                    </li>
+                    <!--
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
+                    -->
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
     </nav>
-
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
 

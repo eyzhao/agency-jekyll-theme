@@ -1,3 +1,21 @@
+:root {
+    font-size: 12pt;
+}
+
+@media(max-width:600px) {
+    .intro-heading {
+        font-size: 35px !important;
+    }
+
+    .degrees {
+        font-size: 16pt !important;
+    }
+
+    .intro-lead-in {
+        font-size: 13pt !important;
+    }
+}
+
 .degrees {
     font-size: 36pt;
     font-weight: normal;
@@ -13,7 +31,15 @@
 }
 
 #contact h3 {
-    color: #bbb;
+    color: #ccc !important;
+}
+
+.contact-button {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background: rgb(66, 184, 221);
+    border: 0px;
 }
 
 .navbar_post {
@@ -31,4 +57,19 @@ article h2 {
 article h3 {
     text-transform: none;
     font-size: 18pt;
+}
+
+.post-description {
+    display: block;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.post-excerpt {
+    color: #aaa;
+    font-size: 0.9rem;
+}
+
+.nav-logo {
+    height: 60px;
 }
