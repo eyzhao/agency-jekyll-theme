@@ -16,6 +16,10 @@
                         {% if post.type contains "blog" %}
                         {% assign postindex = postindex | plus: 1 %}
 
+                        {% if postindex == 4 %}
+                        {% break %}
+                        {% endif %}
+
                         {% assign remainder = postindex | modulo: 2 %}
                         {% if remainder == 1 %}
                         <li>

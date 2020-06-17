@@ -49,12 +49,12 @@ article {
     padding: 20px 50px;
 }
 
-article h2 {
+.article-post h2 {
     text-transform: none;
     font-size: 24pt;
 }
 
-article h3 {
+.article-post h3 {
     text-transform: none;
     font-size: 18pt;
 }
@@ -72,4 +72,24 @@ article h3 {
 
 .nav-logo {
     height: 60px;
+}
+
+.posttitle {
+    font-family: Merriweather Georgia Serif;
+    text-transform: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#blog-site-logo {
+    height: 140px;
+    float: left;
+    margin-right: 20px;
+}
+
+.blogtitle {
+    padding: 25px 0px;
+}
+
+.mainheading {
 }
