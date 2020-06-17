@@ -58,8 +58,6 @@ seven years so memorable and productive.
 
 ## Research Colleagues
 
-<img src='/img/posts/pog-logos.png' alt='POG Logos' style='width:50%' />
-
 I an infinitely grateful to my supervisor
 **Dr. Steven Jones** for his research/career mentorship and for always
 challenging me to expand my vision and tap into the resources and
