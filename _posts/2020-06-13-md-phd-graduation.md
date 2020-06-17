@@ -7,6 +7,7 @@ description: My goals, gratitudes, and thoughts on graduating in a global pandem
 layout: post
 thumbnail: img/posts/gradphoto-1.jpg
 image: img/posts/gradphoto-2.jpg
+comments: true
 ---
 
 I am tremendously privileged to graduate from the UBC MD/PhD program standing upon
