@@ -10,7 +10,8 @@ image: img/posts/gradphoto-2.jpg
 comments: true
 ---
 
-I am tremendously privileged to graduate from the UBC MD/PhD program standing upon
+I am tremendously privileged to graduate from the
+[UBC MD/PhD program](https://mdprogram.med.ubc.ca/mdphd/) standing upon
 the shoulders of a community of mentors, colleagues, and friends. I
 could not have anticipated that this time would come during a global
 pandemic, but the current situation only emphasizes the need for
@@ -29,7 +30,8 @@ impactful career as a clinician-scientist. Given the opportunity, I
 would choose to do it all again.
 
 > To future UBC MD/PhD students and
-applicants, do not hesitate to contact me. I would be delighted to learn
+applicants, do not hesitate to [contact me](https://mailhide.io/e/34ShD).
+I would be delighted to learn
 your career aspirations and answer any questions or concerns. We are
 strongest as a cohesive and supportive community, and your success is my
 success.
@@ -49,6 +51,10 @@ serves as an unparalleled career launchpad for anyone interested in
 precision oncology research.
 
 # Acknowledgements 
+
+As I move forward towards medical residency, I want to take a look back
+and send gratitude to the peers and mentors who have made the past
+seven years so memorable and productive.
 
 ## Research Colleagues
 
